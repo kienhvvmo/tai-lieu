@@ -20,4 +20,14 @@ loai 5: xem video tra loi cau hoi
 	--hien thi cau hoi
 	-- tra loi
 
-//chuc nang "do ban be"
+//chuc nang "thach do ban be"
+
+
+Lich su choi
+set thoi gian choi 1 cau do mac dinh
+
+
+
+
+
+
