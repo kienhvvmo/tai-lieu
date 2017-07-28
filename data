@@ -1,0 +1,28 @@
+User
+-fullname
+-age
+-gioitinh
+-point
+-idfacebook
+
+Authentication
+-idUser
+-token
+-dateCreate
+-time_exprire
+
+Type_Question
+-name
+-priority
+
+Question
+-time_answer
+-content
+-4_answer (4 dap an)
+-su tro giup
+-answer
+-idUser (nguoi dua len cau hoi)
+-so diem ma nguoi tra loi cau hoi nhan duoc
+
+
+
