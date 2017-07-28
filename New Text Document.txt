@@ -1,0 +1,23 @@
+Loai 1: luyen tri nho theo cau ngan ngu
+	--buoc 1 nghe 
+	--buoc 2 doc lai
+	--nghe va dien cac tu con thieu
+	--goi y neu can
+loai 2: luyen tri nho theo bai hat (tieng anh- tieng viet)
+	--nghe bai hat
+	--nghe va xem loi bai hat
+	--nghe va dien vao cho trong
+	--goi y neu can
+loai 3: luyen tri nho theo hinh anh
+	--Xem cac hinh anh
+	--dien hinh anh con thieu
+	--goi y neu can
+loai 4: luyen tri nho voi cac con so
+	--nhin vao 1 day cac con so
+	--xem lai va dien con so con thieu
+loai 5: xem video tra loi cau hoi
+	--xem video
+	--hien thi cau hoi
+	-- tra loi
+
+//chuc nang "do ban be"
