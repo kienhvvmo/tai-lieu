@@ -23,6 +23,16 @@ Question
 -answer
 -idUser (nguoi dua len cau hoi)
 -so diem ma nguoi tra loi cau hoi nhan duoc
+-so like cho cau hoi nay
+-so nguoi tra loi dung cau hoi
+-thoi gian upload cau hoi nay
+
+Cau hoi ma user da tra loi dung
+idUser
+IdCau hoi
+ngay thang nam tra loi
+thoi gian tra loi (trong bao nhieu giay)
+so lan tra loi
 
 
 
